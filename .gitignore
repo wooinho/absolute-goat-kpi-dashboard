@@ -1,0 +1,7 @@
+# 이 저장소에는 공개용 정적 리포트(docs/)만 올린다.
+# 원본 구글시트/썸트렌드/ListeningMind 원본, 정제 데이터, 앱 소스는 로컬에만 유지.
+*
+!docs/
+!docs/**
+!.gitignore
+!GITHUB_README.md
